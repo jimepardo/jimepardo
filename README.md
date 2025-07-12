@@ -7,7 +7,7 @@
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for fiancial entities. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - ReactJS
-  - NodeJS
+
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
@@ -27,6 +27,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
